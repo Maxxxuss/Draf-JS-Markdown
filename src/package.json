@@ -1,0 +1,19 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "draft-js": "0.11.4",
+    "draft-js-export-markdown": "1.4.0",
+    "draft-js-import-markdown": "1.4.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-draft-wysiwyg": "1.14.4",
+    "react-markdown": "4.3.1",
+    "react-redux": "7.2.0",
+    "redux": "4.0.5",
+    "redux-form": "8.3.0"
+  }
+}
